@@ -1,0 +1,433 @@
+level,contrast,condition,k,diff,ci_lo,ci_hi,n
+1,level resistance (report_shift),forged_other,4,0.012571649029982371,-0.09735504850088184,0.13131172839506175,18
+1,level resistance (behavior_shift),forged_other,4,0.48852095894966024,0.21302632100241375,0.7440936398080353,21
+1,report - behavior (ft),forged_other,4,0.5388888888888889,0.19968364197530866,0.8243904320987654,18
+1,level resistance (report_shift),forged_other,8,0.003802910052910037,-0.18429232804232806,0.2053265542328042,12
+1,level resistance (behavior_shift),forged_other,8,0.0009746469236677451,-0.25211329924933945,0.260054974256682,21
+1,report - behavior (ft),forged_other,8,0.1064814814814815,-0.23611111111111113,0.46990740740740744,12
+1,level resistance (report_shift),forged_other,16,-0.0028769841269841224,-0.2815625,0.28126488095238067,10
+1,level resistance (behavior_shift),forged_other,16,-0.4074349705087526,-0.6327852375049392,-0.15393172623376591,21
+1,report - behavior (ft),forged_other,16,-0.24999999999999994,-0.6291666666666667,0.15833333333333338,10
+1,level resistance (report_shift),forged_self,4,0.25595238095238093,0.25,0.2619047619047619,2
+1,level resistance (behavior_shift),forged_self,4,0.5853729725635604,0.2754448159162576,0.86636774196104,21
+1,report - behavior (ft),forged_self,4,0.8958333333333334,0.7916666666666667,1.0,2
+1,level resistance (report_shift),forged_self,8,-0.22023809523809523,,,1
+1,level resistance (behavior_shift),forged_self,8,0.10788734611804768,-0.18919806448434626,0.4166969308503863,21
+1,report - behavior (ft),forged_self,8,-0.5416666666666667,,,1
+1,level resistance (report_shift),forged_self,16,0.49404761904761907,0.4285714285714286,0.5595238095238095,2
+1,level resistance (behavior_shift),forged_self,16,-0.2908813289201529,-0.5343026739627741,-0.026837411191501886,21
+1,report - behavior (ft),forged_self,16,-0.2083333333333334,-0.9166666666666667,0.49999999999999994,2
+1,level resistance (report_shift),forged_unlabeled,4,-0.11274092970521542,-0.1815268920068027,-0.04590968679138324,14
+1,level resistance (behavior_shift),forged_unlabeled,4,0.6003592737628155,0.3553920022881581,0.8340328649717941,21
+1,report - behavior (ft),forged_unlabeled,4,0.6095521541950114,0.3685048185941044,0.8596286848072561,14
+1,level resistance (report_shift),forged_unlabeled,8,0.12858796296296296,-0.043405051256613744,0.31188182043650786,12
+1,level resistance (behavior_shift),forged_unlabeled,8,0.2449527238516256,-0.03163309130779985,0.517530465078793,21
+1,report - behavior (ft),forged_unlabeled,8,0.05312499999999998,-0.4010416666666667,0.47361111111111115,12
+1,level resistance (report_shift),forged_unlabeled,16,0.11435185185185186,-0.05972222222222221,0.30648148148148147,6
+1,level resistance (behavior_shift),forged_unlabeled,16,-0.06310907175341428,-0.3358131191682921,0.22476069807687443,21
+1,report - behavior (ft),forged_unlabeled,16,-0.5194444444444444,-0.8250000000000001,-0.20000000000000004,6
+1,level resistance (report_shift),genuine_self,4,0.3923611111111111,0.07407407407407408,0.7155092592592593,6
+1,level resistance (behavior_shift),genuine_self,4,0.7765044331318224,0.7174488671159744,0.8274296278898112,21
+1,report - behavior (ft),genuine_self,4,0.34722222222222215,0.055555555555555525,0.6944444444444443,6
+1,level resistance (report_shift),genuine_self,8,-0.3333333333333333,,,1
+1,level resistance (behavior_shift),genuine_self,8,0.7869518583579537,0.7411975238924231,0.8269522904643419,21
+1,report - behavior (ft),genuine_self,8,1.0,,,1
+1,level resistance (report_shift),genuine_self,16,0.36666666666666664,0.13333333333333333,0.6,2
+1,level resistance (behavior_shift),genuine_self,16,0.7724034923712754,0.7370162807251499,0.8078938047055877,21
+1,report - behavior (ft),genuine_self,16,0.41666666666666663,0.0,0.8333333333333333,2
+2,level resistance (report_shift),forged_other,4,-0.011739417989417971,-0.5127314814814815,0.3425925925925926,6
+2,level resistance (behavior_shift),forged_other,4,0.7093902938582417,0.5010242520826217,0.8881803105183339,16
+2,report - behavior (ft),forged_other,4,0.5833333333333334,0.25,0.9166666666666666,6
+2,level resistance (report_shift),forged_other,8,-0.08333333333333331,-0.6666666666666666,0.5,2
+2,level resistance (behavior_shift),forged_other,8,0.43763678700743947,0.216883414089613,0.6510364732927907,16
+2,report - behavior (ft),forged_other,8,0.9166666666666666,0.6666666666666667,1.1666666666666665,2
+2,level resistance (report_shift),forged_other,16,-0.18915343915343916,-0.5119047619047619,0.0,3
+2,level resistance (behavior_shift),forged_other,16,0.21592987175448491,-0.015290832021210725,0.44814292925886523,16
+2,report - behavior (ft),forged_other,16,0.611111111111111,-0.08333333333333331,1.9166666666666667,3
+2,level resistance (report_shift),forged_self,4,-0.37499999999999994,-0.6428571428571428,-0.10714285714285712,2
+2,level resistance (behavior_shift),forged_self,4,0.6713157384348811,0.433824428332799,0.885723471739145,16
+2,report - behavior (ft),forged_self,4,1.6666666666666665,1.3333333333333333,2.0,2
+2,level resistance (report_shift),forged_self,8,,,,0
+2,level resistance (behavior_shift),forged_self,8,0.3987478203578678,0.18312251085736728,0.6062541438516943,16
+2,report - behavior (ft),forged_self,8,,,,0
+2,level resistance (report_shift),forged_self,16,0.35416666666666663,,,1
+2,level resistance (behavior_shift),forged_self,16,0.208462603589122,-0.016807064207866967,0.4331823789247272,16
+2,report - behavior (ft),forged_self,16,0.25,,,1
+2,level resistance (report_shift),forged_unlabeled,4,0.047619047619047616,-0.052083333333333336,0.1056547619047619,4
+2,level resistance (behavior_shift),forged_unlabeled,4,0.9343486719294015,0.7708702503607666,1.0785083527575907,16
+2,report - behavior (ft),forged_unlabeled,4,0.6875,0.22916666666666669,0.9583333333333335,4
+2,level resistance (report_shift),forged_unlabeled,8,0.04867063492063491,-0.12430555555555553,0.22428571428571428,5
+2,level resistance (behavior_shift),forged_unlabeled,8,0.8685750737804481,0.6285723931401754,1.0702892779226478,16
+2,report - behavior (ft),forged_unlabeled,8,1.0,0.95,1.0499999999999998,5
+2,level resistance (report_shift),forged_unlabeled,16,0.0604166666666667,-0.3930555555555555,0.5138888888888888,4
+2,level resistance (behavior_shift),forged_unlabeled,16,0.808219273733722,0.5776501410996001,1.0171836120357562,16
+2,report - behavior (ft),forged_unlabeled,16,0.34375000000000006,0.010416666666666685,0.6666666666666667,4
+2,level resistance (report_shift),genuine_self,4,0.04468253968253968,-0.27666666666666667,0.49682539682539684,5
+2,level resistance (behavior_shift),genuine_self,4,0.7773219707177006,0.6846704851397162,0.8481305569222697,16
+2,report - behavior (ft),genuine_self,4,0.75,0.36666666666666664,0.9833333333333334,5
+2,level resistance (report_shift),genuine_self,8,-0.14484126984126985,-0.2777777777777778,-0.011904761904761904,2
+2,level resistance (behavior_shift),genuine_self,8,0.7143484905640012,0.6106804620686231,0.7788527803019913,16
+2,report - behavior (ft),genuine_self,8,0.4583333333333333,0.08333333333333333,0.8333333333333333,2
+2,level resistance (report_shift),genuine_self,16,0.027777777777777762,-0.3611111111111111,0.41666666666666663,2
+2,level resistance (behavior_shift),genuine_self,16,0.7244437227987852,0.6377717099744925,0.7864359031546247,16
+2,report - behavior (ft),genuine_self,16,0.5,0.0,1.0,2
+3,level resistance (report_shift),forged_other,4,0.18333333333333332,,,1
+3,level resistance (behavior_shift),forged_other,4,0.9801660605434812,0.7944092375349199,1.1044845945326784,7
+3,report - behavior (ft),forged_other,4,0.8333333333333333,,,1
+3,level resistance (report_shift),forged_other,8,,,,0
+3,level resistance (behavior_shift),forged_other,8,0.9669277964485444,0.7786928898501021,1.1037639056210027,7
+3,report - behavior (ft),forged_other,8,,,,0
+3,level resistance (report_shift),forged_other,16,,,,0
+3,level resistance (behavior_shift),forged_other,16,0.9656606070027138,0.678599528611899,1.146351004070701,7
+3,report - behavior (ft),forged_other,16,,,,0
+3,level resistance (report_shift),forged_self,4,,,,0
+3,level resistance (behavior_shift),forged_self,4,0.9696384080170467,0.7195889894016243,1.1201024652277087,7
+3,report - behavior (ft),forged_self,4,,,,0
+3,level resistance (report_shift),forged_self,8,,,,0
+3,level resistance (behavior_shift),forged_self,8,0.9838356329958383,0.7542213171104464,1.1400458130343136,7
+3,report - behavior (ft),forged_self,8,,,,0
+3,level resistance (report_shift),forged_self,16,,,,0
+3,level resistance (behavior_shift),forged_self,16,1.0047904205156166,0.7181153851935006,1.1871988071951325,7
+3,report - behavior (ft),forged_self,16,,,,0
+3,level resistance (report_shift),forged_unlabeled,4,-0.020833333333333332,,,1
+3,level resistance (behavior_shift),forged_unlabeled,4,1.0757506173133824,0.9905381854577648,1.140701338797661,7
+3,report - behavior (ft),forged_unlabeled,4,1.0,,,1
+3,level resistance (report_shift),forged_unlabeled,8,,,,0
+3,level resistance (behavior_shift),forged_unlabeled,8,1.102470437630153,1.0095005976281755,1.1946004879483518,7
+3,report - behavior (ft),forged_unlabeled,8,,,,0
+3,level resistance (report_shift),forged_unlabeled,16,,,,0
+3,level resistance (behavior_shift),forged_unlabeled,16,1.1235754303116188,0.9431907366939372,1.2541409561654506,7
+3,report - behavior (ft),forged_unlabeled,16,,,,0
+3,level resistance (report_shift),genuine_self,4,,,,0
+3,level resistance (behavior_shift),genuine_self,4,0.8755205832084184,0.8262121884116868,0.9173654326736617,7
+3,report - behavior (ft),genuine_self,4,,,,0
+3,level resistance (report_shift),genuine_self,8,,,,0
+3,level resistance (behavior_shift),genuine_self,8,0.7980127188707228,0.674445014404011,0.8901173364879328,7
+3,report - behavior (ft),genuine_self,8,,,,0
+3,level resistance (report_shift),genuine_self,16,,,,0
+3,level resistance (behavior_shift),genuine_self,16,0.7630384985237548,0.6642780999308089,0.8533683753537037,7
+3,report - behavior (ft),genuine_self,16,,,,0
+4,level resistance (report_shift),forged_other,4,0.0,,,1
+4,level resistance (behavior_shift),forged_other,4,0.8972914374133325,0.7819033001743567,1.0000706287368908,5
+4,report - behavior (ft),forged_other,4,0.8333333333333334,,,1
+4,level resistance (report_shift),forged_other,8,0.1388888888888889,,,1
+4,level resistance (behavior_shift),forged_other,8,0.5612479930857869,0.0574399578945607,0.9291462711316246,5
+4,report - behavior (ft),forged_other,8,0.5,,,1
+4,level resistance (report_shift),forged_other,16,,,,0
+4,level resistance (behavior_shift),forged_other,16,0.5301044967848915,0.006887473940514655,0.9130994424626502,5
+4,report - behavior (ft),forged_other,16,,,,0
+4,level resistance (report_shift),forged_self,4,,,,0
+4,level resistance (behavior_shift),forged_self,4,0.8822801353713052,0.743643084714131,1.013994761456949,5
+4,report - behavior (ft),forged_self,4,,,,0
+4,level resistance (report_shift),forged_self,8,,,,0
+4,level resistance (behavior_shift),forged_self,8,0.5054151484508415,-0.04361887087919358,0.9278869749014728,5
+4,report - behavior (ft),forged_self,8,,,,0
+4,level resistance (report_shift),forged_self,16,,,,0
+4,level resistance (behavior_shift),forged_self,16,0.5287690814083665,0.03786513415337445,0.8987234082815121,5
+4,report - behavior (ft),forged_self,16,,,,0
+4,level resistance (report_shift),forged_unlabeled,4,0.25,,,1
+4,level resistance (behavior_shift),forged_unlabeled,4,1.0466621109487277,1.016664948838752,1.088136868845595,5
+4,report - behavior (ft),forged_unlabeled,4,0.75,,,1
+4,level resistance (report_shift),forged_unlabeled,8,,,,0
+4,level resistance (behavior_shift),forged_unlabeled,8,0.9967034949030978,0.9382869850269344,1.058886816729743,5
+4,report - behavior (ft),forged_unlabeled,8,,,,0
+4,level resistance (report_shift),forged_unlabeled,16,,,,0
+4,level resistance (behavior_shift),forged_unlabeled,16,0.9075590349148113,0.6805846971821058,1.0507015176053753,5
+4,report - behavior (ft),forged_unlabeled,16,,,,0
+4,level resistance (report_shift),genuine_self,4,,,,0
+4,level resistance (behavior_shift),genuine_self,4,0.8669064289250097,0.7366982469952443,0.9796283426175704,5
+4,report - behavior (ft),genuine_self,4,,,,0
+4,level resistance (report_shift),genuine_self,8,,,,0
+4,level resistance (behavior_shift),genuine_self,8,0.86848316004069,0.7813137636406887,0.9599111818800491,5
+4,report - behavior (ft),genuine_self,8,,,,0
+4,level resistance (report_shift),genuine_self,16,0.26388888888888884,,,1
+4,level resistance (behavior_shift),genuine_self,16,0.8964838701043675,0.7692164879442922,1.00430844347188,5
+4,report - behavior (ft),genuine_self,16,0.6666666666666667,,,1
+1,record effect report_shift (base),forged_self,4,0.28053665910808767,0.18996102607709756,0.384058130196523,21
+1,record effect behavior_shift (base),forged_self,4,0.30832962839677597,0.25863735441112184,0.3556224644354585,21
+1,record effect report_shift (base),forged_other,4,0.3040721844293273,0.20752586451247165,0.40768530328798175,21
+1,record effect behavior_shift (base),forged_other,4,0.28021682193582187,0.23180534068121075,0.3261613283572706,21
+1,record effect report_shift (base),forged_unlabeled,4,0.240098261526833,0.14327747071050642,0.345380645313681,21
+1,record effect behavior_shift (base),forged_unlabeled,4,0.32926491177569533,0.271665333734097,0.3858825682647449,21
+1,record effect report_shift (base),forged_self,8,0.4377787226001511,0.3094146825396826,0.5747414729780801,21
+1,record effect behavior_shift (base),forged_self,8,0.3754476349187865,0.3237226159068504,0.42691104199895535,21
+1,record effect report_shift (base),forged_other,8,0.3948743386243387,0.2793309476568405,0.5180132747543461,21
+1,record effect behavior_shift (base),forged_other,8,0.3357527912184319,0.2892013083864958,0.38241147013154325,21
+1,record effect report_shift (base),forged_unlabeled,8,0.3525651927437642,0.2569698365457294,0.4457512518896448,21
+1,record effect behavior_shift (base),forged_unlabeled,8,0.40962876708174645,0.35624815529801285,0.4604773120807519,21
+1,record effect report_shift (base),forged_self,16,0.44306972789115645,0.3377163643235072,0.5538571192365834,21
+1,record effect behavior_shift (base),forged_self,16,0.42501829409796443,0.3723690753852921,0.48086665603816503,21
+1,record effect report_shift (base),forged_other,16,0.48963057445200286,0.38880822467876036,0.6087380716175359,21
+1,record effect behavior_shift (base),forged_other,16,0.3698625858910424,0.32507273135750586,0.4183925785603609,21
+1,record effect report_shift (base),forged_unlabeled,16,0.4386479591836735,0.32866508408919115,0.5635189909297053,21
+1,record effect behavior_shift (base),forged_unlabeled,16,0.45872978073036397,0.4125931703358418,0.5057673013984924,21
+1,record effect report_shift (ft),forged_self,4,,,,0
+1,record effect behavior_shift (ft),forged_self,4,0.49946108896503805,0.22067969821147895,0.8085208636422375,21
+1,record effect report_shift (ft),forged_other,4,0.5902777777777778,0.09027777777777775,1.0694444444444444,6
+1,record effect behavior_shift (ft),forged_other,4,0.5682002961179842,0.3259634862493996,0.8380290239506116,21
+1,record effect report_shift (ft),forged_unlabeled,4,1.013425925925926,0.6458333333333334,1.2833333333333332,3
+1,record effect behavior_shift (ft),forged_unlabeled,4,0.5054100711447024,0.2938962928989357,0.7246559868876452,21
+1,record effect report_shift (ft),forged_self,8,,,,0
+1,record effect behavior_shift (ft),forged_self,8,1.0545121471586925,0.7599023580154682,1.3403200403936806,21
+1,record effect report_shift (ft),forged_other,8,0.08333333333333333,,,1
+1,record effect behavior_shift (ft),forged_other,8,1.121730002652718,0.8705357646954425,1.3654347972435623,21
+1,record effect report_shift (ft),forged_unlabeled,8,0.16666666666666666,,,1
+1,record effect behavior_shift (ft),forged_unlabeled,8,0.9516279015880745,0.6867195606088166,1.2187562338427187,21
+1,record effect report_shift (ft),forged_self,16,,,,0
+1,record effect behavior_shift (ft),forged_self,16,1.4883031153893924,1.2274160671556889,1.7233552920912056,21
+1,record effect report_shift (ft),forged_other,16,,,,0
+1,record effect behavior_shift (ft),forged_other,16,1.5497010487710707,1.2959433591636524,1.7670686813425356,21
+1,record effect report_shift (ft),forged_unlabeled,16,,,,0
+1,record effect behavior_shift (ft),forged_unlabeled,16,1.2942423448550537,1.016348283871674,1.5545952630073048,21
+2,record effect report_shift (base),forged_self,4,0.4234375,0.2719125124007936,0.5885940600198413,16
+2,record effect behavior_shift (base),forged_self,4,0.35649384857174954,0.2818974896510863,0.4256390254171494,16
+2,record effect report_shift (base),forged_other,4,0.388312251984127,0.27076729910714287,0.5210633680555554,16
+2,record effect behavior_shift (base),forged_other,4,0.31298257561502874,0.2381862359619092,0.3836293600322528,16
+2,record effect report_shift (base),forged_unlabeled,4,0.255406746031746,0.1587771267361111,0.35263253348214285,16
+2,record effect behavior_shift (base),forged_unlabeled,4,0.39548400553300195,0.3117958523491551,0.4764689048074802,16
+2,record effect report_shift (base),forged_self,8,0.6303013392857142,0.4779337177579365,0.7859375,16
+2,record effect behavior_shift (base),forged_self,8,0.4725336416402524,0.42850406371459837,0.5136515323839304,16
+2,record effect report_shift (base),forged_other,8,0.5534350198412699,0.35449156746031746,0.7557105654761904,16
+2,record effect behavior_shift (base),forged_other,8,0.4172262556967817,0.382237549811818,0.4496883129359105,16
+2,record effect report_shift (base),forged_unlabeled,8,0.44407862103174606,0.309732917906746,0.5770031932043651,16
+2,record effect behavior_shift (base),forged_unlabeled,8,0.512147998332591,0.47160611921735096,0.5498330077812927,16
+2,record effect report_shift (base),forged_self,16,0.6293774801587302,0.4663612971230159,0.7909263392857142,16
+2,record effect behavior_shift (base),forged_self,16,0.5121460820983146,0.4675422953389875,0.5547906422306279,16
+2,record effect report_shift (base),forged_other,16,0.6518477182539683,0.48903676835317467,0.8276457093253967,16
+2,record effect behavior_shift (base),forged_other,16,0.45166983880666545,0.4151587797309896,0.48858207721891095,16
+2,record effect report_shift (base),forged_unlabeled,16,0.5689608134920635,0.453707527281746,0.6884452504960318,16
+2,record effect behavior_shift (base),forged_unlabeled,16,0.5460751214840136,0.506478115058174,0.586610946724249,16
+2,record effect report_shift (ft),forged_self,4,,,,0
+2,record effect behavior_shift (ft),forged_self,4,0.46250008085456906,0.24662836428709559,0.702708334770637,16
+2,record effect report_shift (ft),forged_other,4,0.027777777777777773,-0.25,0.16666666666666666,3
+2,record effect behavior_shift (ft),forged_other,4,0.3809142524744876,0.20303070999852335,0.5881970715566623,16
+2,record effect report_shift (ft),forged_unlabeled,4,0.16666666666666666,,,1
+2,record effect behavior_shift (ft),forged_unlabeled,4,0.23845730432130097,0.0734566566522671,0.4341075035889628,16
+2,record effect report_shift (ft),forged_self,8,,,,0
+2,record effect behavior_shift (ft),forged_self,8,0.7881343118463858,0.581402757119498,1.008627627780007,16
+2,record effect report_shift (ft),forged_other,8,,,,0
+2,record effect behavior_shift (ft),forged_other,8,0.6939379592533435,0.4841493319663622,0.9218394370609319,16
+2,record effect report_shift (ft),forged_unlabeled,8,0.08333333333333333,0.0,0.16666666666666666,2
+2,record effect behavior_shift (ft),forged_unlabeled,8,0.35792141511614395,0.12385114614138996,0.6317622326284728,16
+2,record effect report_shift (ft),forged_self,16,0.25,,,1
+2,record effect behavior_shift (ft),forged_self,16,1.0281272013079779,0.8102615940165747,1.2466889188345394,16
+2,record effect report_shift (ft),forged_other,16,0.0,,,1
+2,record effect behavior_shift (ft),forged_other,16,0.9601836898509657,0.7356157444509835,1.1866648999213718,16
+2,record effect report_shift (ft),forged_unlabeled,16,-0.3333333333333333,,,1
+2,record effect behavior_shift (ft),forged_unlabeled,16,0.46229957054907683,0.24265937171063834,0.7165963244015998,16
+3,record effect report_shift (base),forged_self,4,0.26843820861678,0.10875850340136053,0.43639455782312925,7
+3,record effect behavior_shift (base),forged_self,4,0.20709684931110436,0.14744055589142677,0.2717919470298858,7
+3,record effect report_shift (base),forged_other,4,0.1626842403628118,0.053514739229024944,0.2975056689342404,7
+3,record effect behavior_shift (base),forged_other,4,0.19243638239242414,0.123697382179671,0.2631707329353611,7
+3,record effect report_shift (base),forged_unlabeled,4,0.06584467120181406,-0.003741496598639462,0.13086734693877553,7
+3,record effect behavior_shift (base),forged_unlabeled,4,0.2043185306864048,0.1115801021071439,0.2823939879011868,7
+3,record effect report_shift (base),forged_self,8,0.41530612244897963,0.21258503401360546,0.6011904761904762,7
+3,record effect behavior_shift (base),forged_self,8,0.26943716182989064,0.2173037950288268,0.33616048186608866,7
+3,record effect report_shift (base),forged_other,8,0.4385487528344671,0.2048185941043084,0.6432539682539682,7
+3,record effect behavior_shift (base),forged_other,8,0.23585361462597748,0.17783564439917296,0.30172244486616573,7
+3,record effect report_shift (base),forged_unlabeled,8,0.38171768707482995,0.22213718820861678,0.5462585034013606,7
+3,record effect behavior_shift (base),forged_unlabeled,8,0.2792026327043199,0.19060962326550782,0.38203217834303527,7
+3,record effect report_shift (base),forged_self,16,0.2754535147392291,0.1708843537414966,0.40521541950113377,7
+3,record effect behavior_shift (base),forged_self,16,0.3737827289750522,0.2989111962396348,0.44941488604712276,7
+3,record effect report_shift (base),forged_other,16,0.3861678004535148,0.13401360544217686,0.750453514739229,7
+3,record effect behavior_shift (base),forged_other,16,0.32774211506816187,0.24989912838716352,0.4078089121359604,7
+3,record effect report_shift (base),forged_unlabeled,16,0.29668367346938773,0.12661564625850338,0.5209183673469387,7
+3,record effect behavior_shift (base),forged_unlabeled,16,0.38341927269566084,0.27805563893428725,0.4986944057728982,7
+3,record effect report_shift (ft),forged_self,4,,,,0
+3,record effect behavior_shift (ft),forged_self,4,0.11297902450247592,-0.0025635099287504713,0.3418931691618517,7
+3,record effect report_shift (ft),forged_other,4,,,,0
+3,record effect behavior_shift (ft),forged_other,4,0.08779090505736133,-0.002578912469332522,0.2657810441271197,7
+3,record effect report_shift (ft),forged_unlabeled,4,,,,0
+3,record effect behavior_shift (ft),forged_unlabeled,4,0.004088496581440869,-0.005691851248175649,0.019233157008806123,7
+3,record effect report_shift (ft),forged_self,8,,,,0
+3,record effect behavior_shift (ft),forged_self,8,0.08361424770477502,-0.10195454159166686,0.35264369329334366,7
+3,record effect report_shift (ft),forged_other,8,,,,0
+3,record effect behavior_shift (ft),forged_other,8,0.06693853704815582,-0.10527898479323906,0.30511608938528895,7
+3,record effect report_shift (ft),forged_unlabeled,8,,,,0
+3,record effect behavior_shift (ft),forged_unlabeled,8,-0.02525508605511038,-0.1461860675316085,0.07156414108889987,7
+3,record effect report_shift (ft),forged_self,16,,,,0
+3,record effect behavior_shift (ft),forged_self,16,0.13203080698319053,-0.02709460100387722,0.4203052222895903,7
+3,record effect report_shift (ft),forged_other,16,,,,0
+3,record effect behavior_shift (ft),forged_other,16,0.1251200065892027,-0.040846915270603405,0.4113796445606827,7
+3,record effect report_shift (ft),forged_unlabeled,16,,,,0
+3,record effect behavior_shift (ft),forged_unlabeled,16,0.02288234090779692,-0.12791501441873832,0.19830199594711992,7
+4,record effect report_shift (base),forged_self,4,0.07999999999999999,-0.01857142857142857,0.22523809523809524,5
+4,record effect behavior_shift (base),forged_self,4,0.11127947037263464,0.02866997515472273,0.22852828479371964,5
+4,record effect report_shift (base),forged_other,4,0.00585317460317461,-0.06150793650793651,0.08958333333333332,5
+4,record effect behavior_shift (base),forged_other,4,0.09250371098363151,0.008566776220686734,0.20174411238792045,5
+4,record effect report_shift (base),forged_unlabeled,4,0.013095238095238099,-0.07619047619047618,0.10238095238095239,5
+4,record effect behavior_shift (base),forged_unlabeled,4,0.10992160033589851,0.016898090097432334,0.23010657141761234,5
+4,record effect report_shift (base),forged_self,8,0.035972222222222225,-0.0373611111111111,0.11597222222222223,5
+4,record effect behavior_shift (base),forged_self,8,0.14529408731380805,0.0229165850862349,0.28879473225194185,5
+4,record effect report_shift (base),forged_other,8,0.1123611111111111,0.012916666666666665,0.2588095238095238,5
+4,record effect behavior_shift (base),forged_other,8,0.13478704296849173,0.020399535407644488,0.2629158369166059,5
+4,record effect report_shift (base),forged_unlabeled,8,0.010972222222222225,-0.04638888888888889,0.06833333333333333,5
+4,record effect behavior_shift (base),forged_unlabeled,8,0.18636034356683623,0.03839657247802582,0.35392542780003466,5
+4,record effect report_shift (base),forged_self,16,0.11051587301587303,0.0015873015873015886,0.27321428571428574,5
+4,record effect behavior_shift (base),forged_self,16,0.15107578048456957,-0.017924435293684836,0.3711740014488896,5
+4,record effect report_shift (base),forged_other,16,0.11079365079365078,0.008015873015873018,0.23468253968253966,5
+4,record effect behavior_shift (base),forged_other,16,0.13834996747002037,-0.01901350589579541,0.3356093198678233,5
+4,record effect report_shift (base),forged_unlabeled,16,0.07083333333333333,-0.005555555555555552,0.15138888888888888,5
+4,record effect behavior_shift (base),forged_unlabeled,16,0.16658216817654836,0.005030836186995203,0.3663939992191444,5
+4,record effect report_shift (ft),forged_self,4,,,,0
+4,record effect behavior_shift (ft),forged_self,4,0.09590576392633918,-0.10263558220867708,0.29466210669648135,5
+4,record effect report_shift (ft),forged_other,4,,,,0
+4,record effect behavior_shift (ft),forged_other,4,0.06211870249530873,-0.12077624832477345,0.2527030344333373,5
+4,record effect report_shift (ft),forged_unlabeled,4,,,,0
+4,record effect behavior_shift (ft),forged_unlabeled,4,-0.06983408168781961,-0.2172202017397316,0.009712771625314965,5
+4,record effect report_shift (ft),forged_self,8,,,,0
+4,record effect behavior_shift (ft),forged_self,8,0.5083620989036565,0.06448929841899367,1.118696070048236,5
+4,record effect report_shift (ft),forged_other,8,,,,0
+4,record effect behavior_shift (ft),forged_other,8,0.4420222099233948,0.049376381592143526,1.0017898931779352,5
+4,record effect report_shift (ft),forged_unlabeled,8,,,,0
+4,record effect behavior_shift (ft),forged_unlabeled,8,0.05814000870442822,-0.03309968279415134,0.202027512688331,5
+4,record effect report_shift (ft),forged_self,16,,,,0
+4,record effect behavior_shift (ft),forged_self,16,0.5187905691805705,0.08306541805601833,1.0978074905165762,5
+4,record effect report_shift (ft),forged_other,16,,,,0
+4,record effect behavior_shift (ft),forged_other,16,0.5047293407894964,0.07128610997848835,1.0970289487366547,5
+4,record effect report_shift (ft),forged_unlabeled,16,,,,0
+4,record effect behavior_shift (ft),forged_unlabeled,16,0.1555070033661044,-0.0002428612687557008,0.44619830969547064,5
+1,resistance (report_shift),forged_other,4,-0.20887896825396826,-0.6861607142857142,0.26044973544973543,6
+1,resistance (behavior_shift),forged_other,4,-0.2879834741821623,-0.5345802012666071,-0.06272775703778649,21
+1,resistance (report_shift),forged_other,8,0.3194444444444445,,,1
+1,resistance (behavior_shift),forged_other,8,-0.785977211434286,-1.026614260359589,-0.5376670287450833,21
+1,resistance (report_shift),forged_other,16,,,,0
+1,resistance (behavior_shift),forged_other,16,-1.1798384628800282,-1.400051538327965,-0.9294122856898708,21
+1,resistance (report_shift),forged_self,4,,,,0
+1,resistance (behavior_shift),forged_self,4,-0.19113146056826208,-0.4762515097839609,0.06791093864898469,21
+1,resistance (report_shift),forged_self,8,,,,0
+1,resistance (behavior_shift),forged_self,8,-0.679064512239906,-0.9646688003789028,-0.3823874231732195,21
+1,resistance (report_shift),forged_self,16,,,,0
+1,resistance (behavior_shift),forged_self,16,-1.063284821291428,-1.3016299003509066,-0.8019956709373225,21
+1,resistance (report_shift),forged_unlabeled,4,-0.6292989417989417,-1.3333333333333333,-0.1259920634920635,3
+1,resistance (behavior_shift),forged_unlabeled,4,-0.17614515936900693,-0.39382828851402735,0.0361399105534202,21
+1,resistance (report_shift),forged_unlabeled,8,0.16666666666666666,,,1
+1,resistance (behavior_shift),forged_unlabeled,8,-0.5419991345063282,-0.8120965874381846,-0.2764049731091805,21
+1,resistance (report_shift),forged_unlabeled,16,,,,0
+1,resistance (behavior_shift),forged_unlabeled,16,-0.8355125641246895,-1.0977490504092988,-0.560722121722076,21
+2,resistance (report_shift),forged_other,4,0.47976190476190483,0.17261904761904764,0.6416666666666666,3
+2,resistance (behavior_shift),forged_other,4,-0.06793167685945892,-0.241720071032265,0.07989116879293931,16
+2,resistance (report_shift),forged_other,8,,,,0
+2,resistance (behavior_shift),forged_other,8,-0.2767117035565618,-0.5088001101409185,-0.05712487794050902,16
+2,resistance (report_shift),forged_other,16,0.3611111111111111,,,1
+2,resistance (behavior_shift),forged_other,16,-0.5085138510443004,-0.7443692390643442,-0.2810806504936291,16
+2,resistance (report_shift),forged_self,4,,,,0
+2,resistance (behavior_shift),forged_self,4,-0.10600623228281947,-0.32050841116015455,0.0845651377086997,16
+2,resistance (report_shift),forged_self,8,,,,0
+2,resistance (behavior_shift),forged_self,8,-0.31560067020613336,-0.5474712775541407,-0.09157791506500212,16
+2,resistance (report_shift),forged_self,16,0.7152777777777777,,,1
+2,resistance (behavior_shift),forged_self,16,-0.5159811192096632,-0.7478037985045002,-0.2927243004671138,16
+2,resistance (report_shift),forged_unlabeled,4,0.14583333333333334,,,1
+2,resistance (behavior_shift),forged_unlabeled,4,0.15702670121170098,-0.010158586154833596,0.3088162878169777,16
+2,resistance (report_shift),forged_unlabeled,8,0.21825396825396828,0.047619047619047616,0.38888888888888895,2
+2,resistance (behavior_shift),forged_unlabeled,8,0.15422658321644686,-0.10202961660299578,0.3763064663131935,16
+2,resistance (report_shift),forged_unlabeled,16,0.9722222222222221,,,1
+2,resistance (behavior_shift),forged_unlabeled,16,0.08377555093493688,-0.16417398295057195,0.30644088446484136,16
+3,resistance (report_shift),forged_other,4,,,,0
+3,resistance (behavior_shift),forged_other,4,0.10464547733506283,-0.07587896694635021,0.24382891250938668,7
+3,resistance (report_shift),forged_other,8,,,,0
+3,resistance (behavior_shift),forged_other,8,0.16891507757782168,-0.08690579451348843,0.3636980688729204,7
+3,resistance (report_shift),forged_other,16,,,,0
+3,resistance (behavior_shift),forged_other,16,0.20262210847895917,-0.1468128675514931,0.41821407706857183,7
+3,resistance (report_shift),forged_self,4,,,,0
+3,resistance (behavior_shift),forged_self,4,0.09411782480862843,-0.15280606591250143,0.2606426808526218,7
+3,resistance (report_shift),forged_self,8,,,,0
+3,resistance (behavior_shift),forged_self,8,0.18582291412511562,-0.10432912847701505,0.39338771088735797,7
+3,resistance (report_shift),forged_self,16,,,,0
+3,resistance (behavior_shift),forged_self,16,0.24175192199186177,-0.10787126055310416,0.45724171301647426,7
+3,resistance (report_shift),forged_unlabeled,4,,,,0
+3,resistance (behavior_shift),forged_unlabeled,4,0.2002300341049639,0.1104900697630131,0.27990243768845047,7
+3,resistance (report_shift),forged_unlabeled,8,,,,0
+3,resistance (behavior_shift),forged_unlabeled,8,0.30445771875943034,0.15010494417858694,0.4764338195250599,7
+3,resistance (report_shift),forged_unlabeled,16,,,,0
+3,resistance (behavior_shift),forged_unlabeled,16,0.36053693178786395,0.1086535604056348,0.5570724613879369,7
+4,resistance (report_shift),forged_other,4,,,,0
+4,resistance (behavior_shift),forged_other,4,0.030385008488322783,-0.08075707897942261,0.17440466533121252,5
+4,resistance (report_shift),forged_other,8,,,,0
+4,resistance (behavior_shift),forged_other,8,-0.3072351669549031,-0.7378881469111699,-0.02650628530906638,5
+4,resistance (report_shift),forged_other,16,,,,0
+4,resistance (behavior_shift),forged_other,16,-0.3663793733194761,-0.7636028235379684,-0.09248281054342064,5
+4,resistance (report_shift),forged_self,4,,,,0
+4,resistance (behavior_shift),forged_self,4,0.01537370644629545,-0.15271476074259832,0.1704757473142915,5
+4,resistance (report_shift),forged_self,8,,,,0
+4,resistance (behavior_shift),forged_self,8,-0.36306801158984847,-0.8339888685350918,-0.027765581539218404,5
+4,resistance (report_shift),forged_self,16,,,,0
+4,resistance (behavior_shift),forged_self,16,-0.367714788696001,-0.7326251633251084,-0.10685884472455882,5
+4,resistance (report_shift),forged_unlabeled,4,,,,0
+4,resistance (behavior_shift),forged_unlabeled,4,0.1797556820237181,0.040850995264387804,0.3186603687830485,5
+4,resistance (report_shift),forged_unlabeled,8,,,,0
+4,resistance (behavior_shift),forged_unlabeled,8,0.12822033486240797,0.02246946794950113,0.22438356777020085,5
+4,resistance (report_shift),forged_unlabeled,16,,,,0
+4,resistance (behavior_shift),forged_unlabeled,16,0.011075164810443967,-0.10717029119838346,0.12932062081927137,5
+1,self-attribution (base),,4,-0.02353552532123961,-0.0851484552154195,0.03386952003023428,21
+1,self-attribution (base),,8,0.04290438397581255,-0.02093773620559335,0.10872212773998487,21
+1,self-attribution (base),,16,-0.04656084656084657,-0.11261526832955404,0.023428760393046016,21
+1,self-attribution (ft),,4,-0.2569444444444444,-0.3888888888888889,-0.125,2
+1,self-attribution (ft),,8,0.20833333333333331,,,1
+1,self-attribution (ft),,16,0.0,,,1
+2,self-attribution (base),,4,0.03512524801587301,-0.07397615947420634,0.14933655753968256,16
+2,self-attribution (base),,8,0.07686631944444446,-0.03416294642857142,0.18809120783730157,16
+2,self-attribution (base),,16,-0.022470238095238106,-0.1942503720238095,0.14288225446428574,16
+2,self-attribution (ft),,4,0.5833333333333333,,,1
+2,self-attribution (ft),,8,,,,0
+2,self-attribution (ft),,16,0.25,,,1
+3,self-attribution (base),,4,0.10575396825396825,0.0017998866213151904,0.22599206349206352,7
+3,self-attribution (base),,8,-0.02324263038548752,-0.0976190476190476,0.05192743764172337,7
+3,self-attribution (base),,16,-0.11071428571428574,-0.36547619047619045,0.0869047619047619,7
+3,self-attribution (ft),,4,,,,0
+3,self-attribution (ft),,8,,,,0
+3,self-attribution (ft),,16,,,,0
+4,self-attribution (base),,4,0.07414682539682539,0.02321428571428571,0.1366468253968254,5
+4,self-attribution (base),,8,-0.07638888888888888,-0.15436507936507937,0.001388888888888895,5
+4,self-attribution (base),,16,-0.0002777777777777712,-0.07238095238095237,0.07182539682539682,5
+4,self-attribution (ft),,4,,,,0
+4,self-attribution (ft),,8,,,,0
+4,self-attribution (ft),,16,,,,0
+1,detection self (base),,4,-0.0010947619047619078,-0.033983821428571426,0.03289057142857141,21
+1,detection self (base),,8,0.01313761904761905,-0.013232642857142853,0.039889535714285725,21
+1,detection self (base),,16,-0.012088095238095245,-0.03734721428571428,0.013643595238095226,21
+1,detection third (base),,4,-0.010151428571428568,-0.04337724999999998,0.02120154761904761,21
+1,detection third (base),,8,0.008840952380952382,-0.02700980952380952,0.04288095238095239,21
+1,detection third (base),,16,-0.013976190476190475,-0.06052560714285714,0.03132446428571427,21
+1,detection self (ft),,4,0.06151476190476191,-0.0478118214285714,0.17685470238095238,21
+1,detection self (ft),,8,-0.021993333333333337,-0.0829877738095238,0.03786885714285715,21
+1,detection self (ft),,16,0.038791904761904764,-0.032694738095238096,0.11522039285714285,21
+1,detection third (ft),,4,-0.039197142857142854,-0.12312669047619043,0.021573333333333326,21
+1,detection third (ft),,8,-0.00021714285714287342,-0.0009547619047619106,0.00022666666666664486,21
+1,detection third (ft),,16,0.001025238095238103,-6.857142857141798e-05,0.0031238095238095343,21
+2,detection self (base),,4,0.02011812499999999,-0.010465031250000001,0.05171693749999998,16
+2,detection self (base),,8,0.00467750000000001,-0.023326781249999984,0.033024140625000004,16
+2,detection self (base),,16,0.0040525000000000005,-0.037642046874999995,0.04365553124999999,16
+2,detection third (base),,4,0.049906875,0.012607953124999991,0.082830734375,16
+2,detection third (base),,8,0.054985000000000006,0.023912718750000003,0.08650892187499999,16
+2,detection third (base),,16,0.044463125000000006,-0.010161109375,0.10261671874999996,16
+2,detection self (ft),,4,0.004074375,0.001633734375,0.006566921874999999,16
+2,detection self (ft),,8,0.002215,0.0011449531249999997,0.003294390625,16
+2,detection self (ft),,16,0.003270625,0.0014724999999999999,0.005263765624999999,16
+2,detection third (ft),,4,0.169891875,0.03141459375,0.31385665625000003,16
+2,detection third (ft),,8,0.33755062500000005,0.195516,0.47842070312499996,16
+2,detection third (ft),,16,0.2691675,0.11438285937500003,0.42169007812500003,16
+3,detection self (base),,4,-0.025211428571428576,-0.07321,0.022787142857142857,7
+3,detection self (base),,8,-0.025221428571428582,-0.05790857142857143,0.015297142857142834,7
+3,detection self (base),,16,-0.0038014285714285667,-0.02695857142857141,0.01953,7
+3,detection third (base),,4,-0.04600571428571427,-0.10330285714285713,0.01183142857142858,7
+3,detection third (base),,8,-0.0032085714285714296,-0.042859357142857143,0.03478278571428531,7
+3,detection third (base),,16,-0.02930428571428571,-0.11944714285714286,0.04757571428571429,7
+3,detection self (ft),,4,-0.030968571428571418,-0.07409357142857144,0.01173857142857144,7
+3,detection self (ft),,8,-0.00803142857142857,-0.03275142857142856,0.017574285714285716,7
+3,detection self (ft),,16,-0.016714285714285713,-0.037787142857142866,0.004564285714285743,7
+3,detection third (ft),,4,-0.10541285714285713,-0.22659000000000004,0.0017000000000000032,7
+3,detection third (ft),,8,-0.007150000000000002,-0.14231,0.13685857142857144,7
+3,detection third (ft),,16,0.04425714285714286,-0.07747571428571429,0.18179571428571428,7
+4,detection self (base),,4,0.0008240000000000025,-0.051073999999999994,0.052722000000000005,5
+4,detection self (base),,8,0.04557999999999999,0.0015039999999999832,0.08460199999999998,5
+4,detection self (base),,16,0.021508000000000006,-0.06781999999999998,0.094626,5
+4,detection third (base),,4,-0.005293999999999993,-0.06210999999999998,0.048282000000000005,5
+4,detection third (base),,8,0.03358,-0.03649000000000001,0.07459400000000001,5
+4,detection third (base),,16,-0.02013800000000001,-0.07314400000000001,0.03139599999999998,5
+4,detection self (ft),,4,0.041833999999999996,0.009458000000000012,0.06902199999999999,5
+4,detection self (ft),,8,0.029554000000000035,-0.010555999999999987,0.05889400000000002,5
+4,detection self (ft),,16,0.01682999999999999,-0.0003420000000000201,0.03221799999999999,5
+4,detection third (ft),,4,0.073506,0.015720000000000046,0.1579451999999997,5
+4,detection third (ft),,8,0.09086199999999996,-0.07318200000000004,0.33237799999999995,5
+4,detection third (ft),,16,0.059582000000000024,-0.02082799999999998,0.19832800000000003,5
